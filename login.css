@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.spotify-logo{
+    height: 66px;
+    width: 200px;
+    margin-top: 25px;
+}
+.top-heading{
+    color:#222326;
+    font-weight:700;
+    text-align: center;
+    font-family:inherit;
+    margin-top: 12px;
+    font-size: 16px;
+}
+.facebook{
+    background-color:#3b5998;
+    padding-top: 14px;
+    width: 450px;
+    height: 48px;
+    border-radius: 500px;
+    cursor: pointer;
+}
+.icons-heading{
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family:"Roboto";
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.apple{
+    background-color:#000000;
+    padding-top: 14px;
+    width: 450px;
+    height: 48px;
+    border-radius: 500px;
+    cursor: pointer;
+}
+.google{
+    background-color:transparent;
+    width: 450px;
+    height: 48px;
+    border-radius: 500px;
+    cursor: pointer;
+    border:2px solid #616467;
+}
+.google-icon{
+    width:40px;
+    margin-right: 10px;
+}
+.trans-heading{
+    color:#616467;
+    text-align: center;
+    font-size: 14px;
+    font-family:"Roboto";
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-top: 5px;
+
+}
+.form{
+    width: 450px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.forgot-pass{
+    color: #616467;
+    text-decoration: underline;
+}
+.button{
+    border-radius: 30px;
+    width: 210px;
+    height: 47.5px;
+    background-color: #15883e;
+    color: white;
+    font-size: 14px;
+    letter-spacing: 2px;
+}
+.hr{
+    width: 210px;
+}
+.or{
+    color:black;
+    font-weight: bold;
+    font-size: 12px;
+    margin-top: 8px;
+}
